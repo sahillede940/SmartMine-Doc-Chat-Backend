@@ -1,0 +1,57 @@
+• The world's largest robot is a 3500 tons coal dragline with automated loading and unloading. 
+• A robot for securing mine roofs after blasting by drilling and fastening them. 
+• A pilot-less burrowing machine for mining underground in flooded gravels and sands where humans can't go. 
+• A robotic drilling and blasting instrument capable of producing controlled caving. 
+ 
+            Fig. 5.5: Mine rescue robots (Jingchao Zhao., et al 2017) 
+5.5 EFFECTS OF ROBOTICS IN LABOUR 
+               Robots improved productivity while lowering labor expenses. Much has been written on the emergence of robots and the 
+economic consequences of automation. However, most research is prospective in nature, and predictions of future employment 
+implications vary significantly, with some studies projecting that as many as half of all workers might lose their jobs due t o 
+automation. Even less is known about how robots will affect employment, salaries, and employees in the future. Intensity of robot
+
+data\APPLICATION OF ROBOTICS IN MINING.pdf:5:2: 0.81
+
+method.  
+5.3 EFFECTS OF ROBOTICS IN PRODUCTIVITY 
+               Significant organizational improvements are obtained when digital technology is coupled with management and mindset 
+adjustments. For example, advanced analytics and sensors are lowering cost of maintenance and downtime while improving 
+productivity and chemical recovery. Robotics and semi -autonomous equipment are replacing humans in mines, red ucing demand 
+and hazard. According to miners in Western Australia, autonomous hauling technology has improved output by 20%. 
+ 
+ 
+Fig. 5.4: Statistics of mining productivity 
+(Nathan Flesher., et al 2018) 
+               Underground mining has always been difficult to coordinate since it is hard to know where people and assets are or how 
+far they have advanced. It's becoming more realistic to combine off-the-shelf technologies with in-house solutions to create a system
+
+data\APPLICATION OF ROBOTICS IN MINING.pdf:4:3: 0.81
+
+The Extractive Industries and Society 8 (2021) 189–193
+190
+- Labour markets: An increase substitution of human labour by auto -
+mation/robotics will cause a reduction of labour demand from 
+mining activity, affecting labour markets in mining regions and la -
+bour mobility at the national level mainly due to a decrease in fly-in 
+fly-out or drive-in drive-out (FIFO/DIDO) flows.  
+- Income: Lower labour demand will provide fewer jobs with high- 
+earning salaries typical in mining. A decrease in local wages will 
+subsequently reduce the disposable income available in mining re -
+gions, generating a diverse pool of indirect effects for mining com -
+munities and the rest of the communities who send mining workers. 
+We also include some insights on the implications of this on income 
+and sale taxes.  
+- Inequality across and between regions: A decrease of high-earning 
+jobs will likely shift the median salary of mining regions to the
+
+data\Automation and robotics in mining Jobs, income and inequality implications.pdf:1:0: 0.79
+
+techniques from other industries (e.g., from manufacturing robotics). In the mining, miners have reported difﬁculties ﬁnding the 
+skilled labor needed to support their operations. The newest generation of workers is technologically astute, but holds a di fferent 
+attitude towards physical labor than previous generations. Robotization may be what is needed to entice this new generation i nto 
+mining. Modern mining firms and equipment suppliers are required to be environmentally and socially responsible. The alleviation 
+of emissions (e.g., through the coordination and optimization of ﬂeets) or reduction in power consumption by reduced operatin g 
+demands (e.g., ventilation support) might be realized by way of real time monitoring and automation of equipment.
+
+data\APPLICATION OF ROBOTICS IN MINING.pdf:0:4: 0.78
+
